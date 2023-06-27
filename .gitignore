@@ -4,7 +4,7 @@
 /.pnp
 .pnp.js
 package-lock.json
-/config
+/config/config.env
 readme.md
 # misc
 .DS_Store
